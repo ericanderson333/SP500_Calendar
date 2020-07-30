@@ -1,9 +1,9 @@
-#SP500 Percentage Predictor
+# SP500 Percentage Predictor
 This program predicts a one month price change based off of 10 years of historic data
 for each stock in the SP500 using Python. Calculating at least a 90% success rate (9/10 years)
 between the same time periods. This produce a csv file that has a years worth of 
 stock picks and their respective percentage change during that price change. This is a console Project
-##Packages
+## Packages
 * Pandas
 * Pandas DataReader
 * Numpy
@@ -14,7 +14,7 @@ stock picks and their respective percentage change during that price change. Thi
 * os & shutil (for deleting and creating paths)
 * Pickle
 * Requests
-##Example Results
+## Example Results
  *Ticker* | *Start Date* | *End Date* | *Avg % Change* | *Outlier Year* 
  ---------|--------------|------------|----------------|----------------
  FISV | 06-08 | 07-08 | 3.25 | 2017
@@ -26,7 +26,7 @@ stock picks and their respective percentage change during that price change. Thi
  * Outlier Year is the year where during that time period the stock had an opposite 
  price change. If Outlier Year is a NaN value, then the stock had 100% positive or negative price
  change during that time period.
-##Contact
+## Contact
  Phone: (971) 708-4444<br />
  Email: ericsanderson333@gmail.com<br />
  Linkedin: https://www.linkedin.com/in/ericanderson333 <br />
