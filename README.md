@@ -30,7 +30,6 @@ stock picks and their respective percentage change during that price change. Thi
  Phone: (971) 708-4444<br />
  Email: ericsanderson333@gmail.com<br />
  Linkedin: https://www.linkedin.com/in/ericanderson333 <br />
- Bitcoin Wallet: 39PWQqypjfiFdqfn2pSZZ88KaWNf5GhesE <br />
  Please contact me and send me any questions/advice! Thanks!
  
 
