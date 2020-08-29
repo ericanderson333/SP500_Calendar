@@ -109,5 +109,3 @@ def menu():
         choice = int(input('\nENTER CHOICE HERE: '))
         print(choice)
     return choice
-
-#display_hundred()
