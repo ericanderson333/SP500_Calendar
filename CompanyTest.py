@@ -288,4 +288,3 @@ def hundred_percent():
         os.remove('final_csv_files/Hundred_Percents.csv')
     df.to_csv('final_csv_files/Hundred_Percents.csv')
     return True
-
